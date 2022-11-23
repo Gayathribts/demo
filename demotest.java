@@ -1,5 +1,5 @@
 package .com.aer;
-public class demotest
+public class Demotest
 {
   public static void main(string args[])
         System.out.println("i love bts");
